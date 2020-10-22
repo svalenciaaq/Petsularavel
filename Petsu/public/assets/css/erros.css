@@ -1,0 +1,22 @@
+input {
+    border: 1px solid #000;
+    margin-bottom: .5em
+}
+
+input.error {
+    border: 1px solid red;
+}
+
+label.error {
+    color: red;
+    padding-left: 8px;
+    margin-left: .3em
+}
+
+select.error {
+    border: 1px solid red;
+}
+
+password.error {
+    border: 1px solid red;
+}
